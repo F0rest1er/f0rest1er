@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="16863737" data-share-method="host" data-aspect-ratio="2.01899" data-width="100%"><a href="https://tenor.com/view/sad-mood-aesthetic-raining-cold-weather-gif-16863737">Sad Mood GIF</a>from <a href="https://tenor.com/search/sad-gifs">Sad GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a href="https://tenor.com/ru/view/neon-city-gif-27217909"></a>
 
 <h1 align="center">Приветствую в своем профиле GitHub</h1>
 
