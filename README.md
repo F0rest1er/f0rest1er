@@ -7,7 +7,8 @@ Backend разработчик, умеющий чуть-чуть во Frontend �
 <h3 align="left">Что я сделал и есть в общем доступе</h3>
 
 <p align="left">
-  <a href="https://addons.mozilla.org/ru/firefox/user/18518493/">Плагины</a> для магазина Firefox
+  <a href="https://addons.mozilla.org/ru/firefox/user/18518493/">Плагины</a> для магазина Firefox 
+  <a href="https://pocket-assistant.ru/">Сайт</a> Pocket Assistant
 </p>
 
 <h3 align="left">Технологии, которые я использую</h3>
